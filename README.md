@@ -25,7 +25,7 @@
     - Status: Scheduled 📆
 </br>
 
-- Project 7 - Hagman ➰
+- Project 7 - Hangman ➰
     - Status: 📆 
 </br>
 
@@ -41,7 +41,7 @@
     - Status: Scheduled 📆
 </br>
 
-- Project 11 - Blackhack Capstone 🃏
+- Project 11 - Blackjack Capstone 🃏
     - Status: Scheduled 📆
 </br>
 
