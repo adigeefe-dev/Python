@@ -10,11 +10,11 @@
 </br>
 
 - [Project 3 - Treasure Island Game](./Projects/P3%20-%20Treasure%20Island%20Game/README.md)
-    - Status: Scheduled 📆
+    - Status: Done ✅
 </br>
 
-- Project 4 - Rock Paper Scissors
-    - Status: Scheduled 📆
+- [Project 4 - Rock Paper Scissors](./Projects/P4%20-%20Rock%20Paper%20Scissors/README.md)
+    - Status: Done ✅
 </br>
 
 - Project 5 - Password Generator 🔒

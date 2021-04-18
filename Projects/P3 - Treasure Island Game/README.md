@@ -1,4 +1,4 @@
-## Treasure Island Game 💎
+# Treasure Island Game 💎
 
 Basic game focused on conditions and If statements
 
@@ -6,6 +6,6 @@ Basic game focused on conditions and If statements
 
 ![Image](https://i.imgur.com/6Suxy9f.png)
 
-### Program
+## Program
 
 ![GIF](https://i.imgur.com/NqcrAks.gif)
