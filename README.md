@@ -17,8 +17,8 @@
     - Status: Done ✅
 </br>
 
-- Project 5 - Password Generator 🔒
-    - Status: Scheduled 📆
+- [Project 5 - Password Generator 🔒](./P5%20-%20Password%20Generator/README.md)
+    - Status: Done ✅
 </br>
 
 - Project 6 - Escape Maze
