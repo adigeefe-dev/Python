@@ -1,6 +1,9 @@
 # Python Bootcamp 
 ## Python Project Map
 
+<a>tableview</a>
+
+
 - Project 1 - Band Name Generator
     - Status: Passed ✖
 </br>
@@ -30,37 +33,57 @@
 </br>
 
 - Project 8 - Caesar Cipher 🔐
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 9 - Auction Program 💎
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 10 - Calculator 🧮
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 11 - Blackjack Capstone 🃏
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 12 - Number Guessing Game 🤔
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 13 - Debugging Exercises 🐛
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 14 - Higher Lower Game 👆👇
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
 - Project 15 - Coffe Machine ☕
-    - Status: Scheduled 📆
+    - Status: Sscheduled 📆
 </br>
 
+
+## Table View
+</br></br>
+| Project      | Status | Level | Platform |  
+| ----------- | :-----------: | :-----: | :--------: |
+| Project 1 - Band Name Generator| Passed ✖| 🟢beginner | console | 
+| Project 2 - Random Love Generator| Passed ✖| 🟢beginner | console | 
+|[Project 3 - Treasure Island Game 💎](./Projects/P3%20-%20Treasure%20Island%20Game/README.md)| Done ✅| 🟢beginner | console |
+|[Project 4 - Rock✊ Paper✌ Scissors✋](./Projects/P4%20-%20Rock%20Paper%20Scissors/README.md)| Done ✅| 🟢beginner | console | 
+|[Project 5 - Password Generator 🔒](./P5%20-%20Password%20Generator/README.md)| Done ✅| 🟢beginner | console | 
+|Project 6 - Escape Maze| Passed 🚧 | 🟢beginner | console | 
+|[Project 7 - Hangman ➰](./P7%20-%20Hangman/README.md)| Done ✅| 🟢beginner | console | 
+|Project 8 - Caesar Cipher 🔐| scheduled 📆| 🟢beginner | console | 
+|Project 9 - Auction Program 💎| scheduled 📆| 🟢beginner | console | 
+|Project 10 - Calculator 🧮| scheduled 📆| 🟢beginner | console | 
+|Project 11 - Blackjack Capstone 🃏| scheduled 📆| 🟢beginner | console | 
+|Project 12 - Number Guessing Game 🤔| scheduled 📆| 🟢beginner | console | 
+|Project 13 - Debugging Exercises 🐛| scheduled 📆| 🟢beginner | console | 
+|Project 14 - Higher Lower Game 👆👇| scheduled 📆| 🟢beginner | console | 
+|Project 15 - Coffe Machine ☕| scheduled 📆| 🟢beginner | console | 
 
 <!--
 
