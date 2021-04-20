@@ -20,7 +20,7 @@
     - Status: Done ✅
 </br>
 
-- [Project 5 - Password Generator 🔒](./P5%20-%20Password%20Generator/README.md)
+- [Project 5 - Password Generator 🔒](./Projects/P5%20-%20Password%20Generator/README.md)
     - Status: Done ✅
 </br>
 
@@ -28,40 +28,40 @@
     - Status: Passed 🚧
 </br>
 
-- [Project 7 - Hangman ➰](./P7%20-%20Hangman/README.md)
+- [Project 7 - Hangman ➰](./Projects/P7%20-%20Hangman/README.md)
     - Status: Done ✅
 </br>
 
-- Project 8 - Caesar Cipher 🔐
-    - Status: Sscheduled 📆
+- [Project 8 - Caesar Cipher 🔐](./Projects/P8%20-%20Caesar%20Cipher/README.md)
+    - Status: Done ✅
 </br>
 
 - Project 9 - Auction Program 💎
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 - Project 10 - Calculator 🧮
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 - Project 11 - Blackjack Capstone 🃏
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 - Project 12 - Number Guessing Game 🤔
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 - Project 13 - Debugging Exercises 🐛
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 - Project 14 - Higher Lower Game 👆👇
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 - Project 15 - Coffe Machine ☕
-    - Status: Sscheduled 📆
+    - Status: Scheduled 📆
 </br>
 
 
@@ -73,17 +73,17 @@
 | Project 2 - Random Love Generator| Passed ✖| 🟢beginner | console | 
 |[Project 3 - Treasure Island Game 💎](./Projects/P3%20-%20Treasure%20Island%20Game/README.md)| Done ✅| 🟢beginner | console |
 |[Project 4 - Rock✊ Paper✌ Scissors✋](./Projects/P4%20-%20Rock%20Paper%20Scissors/README.md)| Done ✅| 🟢beginner | console | 
-|[Project 5 - Password Generator 🔒](./P5%20-%20Password%20Generator/README.md)| Done ✅| 🟢beginner | console | 
+|[Project 5 - Password Generator 🔒](./Projects/P5%20-%20Password%20Generator/README.md)| Done ✅| 🟢beginner | console | 
 |Project 6 - Escape Maze| Passed 🚧 | 🟢beginner | console | 
-|[Project 7 - Hangman ➰](./P7%20-%20Hangman/README.md)| Done ✅| 🟢beginner | console | 
-|Project 8 - Caesar Cipher 🔐| scheduled 📆| 🟢beginner | console | 
-|Project 9 - Auction Program 💎| scheduled 📆| 🟢beginner | console | 
-|Project 10 - Calculator 🧮| scheduled 📆| 🟢beginner | console | 
-|Project 11 - Blackjack Capstone 🃏| scheduled 📆| 🟢beginner | console | 
-|Project 12 - Number Guessing Game 🤔| scheduled 📆| 🟢beginner | console | 
-|Project 13 - Debugging Exercises 🐛| scheduled 📆| 🟢beginner | console | 
-|Project 14 - Higher Lower Game 👆👇| scheduled 📆| 🟢beginner | console | 
-|Project 15 - Coffe Machine ☕| scheduled 📆| 🟢beginner | console | 
+|[Project 7 - Hangman ➰](./Projects/P7%20-%20Hangman/README.md)| Done ✅| 🟢beginner | console | 
+|[Project 8 - Caesar Cipher 🔐](./Projects/P8%20-%20Caesar%20Cipher/README.md)| Done ✅| 🟢beginner | console | 
+|Project 9 - Auction Program 💎| Scheduled 📆| 🟢beginner | console | 
+|Project 10 - Calculator 🧮| Scheduled 📆| 🟢beginner | console | 
+|Project 11 - Blackjack Capstone 🃏| Scheduled 📆| 🟢beginner | console | 
+|Project 12 - Number Guessing Game 🤔| Scheduled 📆| 🟢beginner | console | 
+|Project 13 - Debugging Exercises 🐛| Scheduled 📆| 🟢beginner | console | 
+|Project 14 - Higher Lower Game 👆👇| Scheduled 📆| 🟢beginner | console | 
+|Project 15 - Coffe Machine ☕| Scheduled 📆| 🟢beginner | console | 
 
 <!--
 
