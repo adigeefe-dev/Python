@@ -1,7 +1,7 @@
 # Python Bootcamp 
 ## Python Project Map
 
-<a href="https://github.com/adigeefe-dev/Python#table-view">tableview</a>
+<a href="https://github.com/adigeefe-dev/Python#table-view">Table view</a>
 
 
 - Project 1 - Band Name Generator
