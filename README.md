@@ -22,11 +22,11 @@
 </br>
 
 - Project 6 - Escape Maze
-    - Status: Scheduled 📆
+    - Status: Passed 🚧
 </br>
 
-- Project 7 - Hangman ➰
-    - Status: 📆 
+- [Project 7 - Hangman ➰](./P7%20-%20Hangman/README.md)
+    - Status: Done ✅
 </br>
 
 - Project 8 - Caesar Cipher 🔐
