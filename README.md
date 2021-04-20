@@ -1,4 +1,7 @@
 # Python Bootcamp 
+  [![python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+ [![ok](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://github.com/adigeefe)
+ [![profile](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adigeefe)
 ## Python Project Map
 
 <a href="https://github.com/adigeefe-dev/Python#table-view">Table view</a>
