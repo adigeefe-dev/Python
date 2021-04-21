@@ -1,29 +1,12 @@
 # Caesar Cipher 🔒
+[![codecov.io Code Coverage Badge](https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000)](https://github.com/adigeefe-dev/Python/) 
 
+[What is Caesar cipher?](https://en.wikipedia.org/wiki/Caesar_cipher)
   
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20">
-<linearGradient id="a" x2="0" y2="100%">
-    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-    <stop offset="2" stop-opacity=".1"/>
-</linearGradient>
-
-<rect rx="3" width="60" height="20" fill="#555"/> <!-- Comment -->
-<rect rx="3" x="60" width="40" height="20" fill="#4c1"/>
-
-<path fill="#4c1" d="M58 0h4v20h-4z"/>
-
-<rect rx="3" width="100" height="20" fill="url(#a)"/>
-	<g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
-	    <text x="30" y="15" fill="#010101" fill-opacity=".3">coverage</text>
-	    <text x="30" y="14">coverage</text>
-	    <text x="80" y="15" fill="#010101" fill-opacity=".3">100%</text>
-	    <text x="80" y="14">100%</text>
-	</g>
-</svg>
 
 
-[Caesar cipher](https://en.wikipedia.org/wiki/Caesar_cipher)
+
+
 
 ## Program
 
